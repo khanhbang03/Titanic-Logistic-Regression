@@ -1,6 +1,8 @@
 # Titanic-Logistic-Regression
 For this project, we have worked with the Titanic Data Set from Kaggle.
+
 The goal is to predict whether each person survived or deceased in the shipwreck. (binary classification task)
+
 The model's objective is to analyze various features or information about the individuals and make predictions about their survival outcomes based on that data.
 
 Steps of the project:
